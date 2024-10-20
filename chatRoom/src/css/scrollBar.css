@@ -1,0 +1,15 @@
+/* Webkit-based browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 8px; /* Set the width of the scrollbar */
+  opacity: 0.5;
+}
+
+::-webkit-scrollbar-track {
+  background: #2727271e; /* Scrollbar background */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #8d8d8dcf; /* WhatsApp green color */
+}
+
+
